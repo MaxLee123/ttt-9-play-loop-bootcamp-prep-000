@@ -37,8 +37,7 @@ end
 
 # Define your play method below
 def play(board)
-  until choi < 10 do
-  turn
-  end
+ 
+end
   
 end
